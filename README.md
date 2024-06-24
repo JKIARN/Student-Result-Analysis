@@ -6,9 +6,9 @@ Analyzing student performance is crucial for educators to understand trends, ide
 1. Setting Up the Environment
 To begin, ensure you have the necessary libraries installed. Commonly used libraries for data analysis and visualization include:
 
-~Pandas: For data manipulation and analysis
-~NumPy: For numerical operations
-~Matplotlib and Seaborn: For data visualization
+>Pandas: For data manipulation and analysis.
+>NumPy: For numerical operations.
+>Matplotlib and Seaborn: For data visualization.
 
 2. Loading and Exploring the Data
 Start by loading the student results data into a Pandas DataFrame.
